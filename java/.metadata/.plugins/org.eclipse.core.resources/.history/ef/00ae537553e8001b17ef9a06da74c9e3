@@ -1,0 +1,10 @@
+package lesson001;
+
+public class E010_forStmt {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
