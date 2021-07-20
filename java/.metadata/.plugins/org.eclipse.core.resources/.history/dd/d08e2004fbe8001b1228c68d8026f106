@@ -1,0 +1,14 @@
+package lesson001;
+
+public class J003_Factorial {
+
+	int num = 10;
+	long factorial = 1L;
+	for(int i = 1; i <= num; ++i)
+	{
+		//factorial = factorial * i;
+		factorial *= i;
+	}
+	System.out.printif("Factorial of %d = %d", num, factorial);
+}
+}

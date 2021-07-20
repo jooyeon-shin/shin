@@ -1,0 +1,10 @@
+package lesson001;
+
+public class J001_SumNatural {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

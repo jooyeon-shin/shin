@@ -1,0 +1,11 @@
+package lesson001;
+
+public class J003_Factorial {
+	public static void main(String[] args) {
+
+		String[] words = {'은희', '주연', '형재'};
+
+		for(word : words)
+			System.out.print(word + "\n");
+	}
+}
