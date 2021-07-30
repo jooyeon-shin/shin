@@ -1,9 +1,9 @@
-package lesson002;
+ package lesson002;
 
 public class S007_HashMap {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 	}
 
